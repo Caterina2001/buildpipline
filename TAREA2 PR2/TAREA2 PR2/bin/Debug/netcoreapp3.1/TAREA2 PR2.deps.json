@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TAREA2 PR2/1.0.0": {
+        "runtime": {
+          "TAREA2 PR2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAREA2 PR2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
